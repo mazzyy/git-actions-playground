@@ -29,3 +29,14 @@ jobs:
       - name: Goodbye world
         run: echo "Goodbye world"
         shell: bash
+
+  job3:
+    runs-on: ubuntu-latest
+    steps:
+      -name: Checkout code
+       users: actions/checkout@v2
+
+       -name: Job3
+        run: echo "Job3"
+        shell: bash
+
