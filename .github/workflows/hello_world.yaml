@@ -23,8 +23,7 @@ jobs:
   goodbye:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+
 
       - name: Goodbye world
         run: echo "Goodbye world"
@@ -33,9 +32,7 @@ jobs:
   job3:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
+ 
       - name: Job3
         run: echo "Job3"
         shell: bash
