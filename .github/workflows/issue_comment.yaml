@@ -5,7 +5,7 @@ on:
     types: [opened]
 jobs:
   comment-with-action:
-    runs-on:ubuntu-latest:
+    runs-on: ubuntu-latest
     steps: 
      - name: "dump github context"
        run: echo '${{ toJson(github) }}' | jq
