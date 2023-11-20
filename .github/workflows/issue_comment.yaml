@@ -1,19 +1,21 @@
-create git action to comment on issue 
-```yaml
-name: Issue Comment
+name: Create a comment on new issues
 on:
-  issue_comment:
-    types: [created]
+  issues:
+    types: [opened]
 jobs:
-
-  issue_comment:
+  comment-with-action:
     runs-on: ubuntu-latest
     steps:
-      - name: Comment on Issue
+      - name: "dump github context"
+        run: echo '${{ toJSON (github.event) }} | jq
+        shell: bash
+      -name: Create comment
         uses: peter-evans/create-or-update-comment@v1
         with:
-          issue-number: ${{ github.event.issue.number }}
-          body: |
-           This is a multi-line test comment
-          - With GitHub **Markdown** :sparkles:
-          - Created by [create-or-update-comment] [1]
+          issue-number: ${{ github.event.issue. number }}
+          body: I
+            This is a multi-line test comment
+            - With GitHub **Markdown** :sparkles:
+            - Created by [create-or-update-comment] [1]
+            [1]: https://github.com/peter-evans/create-or-update-comment
+          reactions. '+1'
