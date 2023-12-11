@@ -1,0 +1,22 @@
+name: auto-dedection
+off:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+   workflow_dispatch:
+
+
+ jobs:
+  xyz:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: auto dedection pipeline
+        run: echo "Auto dedection pipeline"
+        shell: bash  
+
