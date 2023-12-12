@@ -24,7 +24,7 @@ jobs:
               - [ ] Item 2
 
             
-          reactions: '+3'
+          reactions: '+1'
 
 
   # comment-with-gh-api:
