@@ -30,20 +30,17 @@ jobs:
   comment-with-gh-api:
     runs-on: ubuntu-latest
     steps:
-      - name: "comment with api"
+      - name: "Comment with API"
         run: |
-         gh api -X POST \
-           https://api.github.com/repos/${ORGANIZATION}/${REPOSITORY}/issues/${ ISSUE_NUMBER }/comments \ 
-           -f  body 'This is a comment from github api 
-            - With a task list
-              - [x] Item 1
-              - [ ] Item 2
-            '
-            env:
-              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              ORGANIZATION: ${{ github.event.organization.login }}
-              REPOSITORY: ${{ github.event.repository.name }}
-              ISSUE_NUMBER: ${{ github.event.issue.number }}
+          gh api -X POST \
+            "https://api.github.com/repos/${{ env.ORGANIZATION }}/${{ env.REPOSITORY }}/issues/${{ env.ISSUE_NUMBER }}/comments" \
+            -f "body='This is a comment from the GitHub API with a task list\n- [x] Item 1\n- [ ] Item 2'"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ORGANIZATION: ${{ github.event.organization.login }}
+          REPOSITORY: ${{ github.event.repository.name }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+
 
           
           
