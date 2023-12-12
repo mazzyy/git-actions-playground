@@ -33,7 +33,6 @@ jobs:
       - name: "comment with api"
         run: |
          gh api -X POST \
-           https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \ 
            https://api.github.com/repos/${{ORGANIZATION}}/${REPOSITORY}/issues/${{ ISSUE_NUMBER }}/comments \ 
            -f  body 'This is a comment from github api 
             - With a task list
