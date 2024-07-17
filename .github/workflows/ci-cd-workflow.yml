@@ -20,7 +20,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
-        repository: musawar96/git-actions-playground
+        repository: mazzyy/git-actions-playground
         token: ${{ secrets.GITHUB_TOKEN }}
         ref: main
 
