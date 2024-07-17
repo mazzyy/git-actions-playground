@@ -2,8 +2,8 @@ name: Update File with Current Time
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+  workflow_dispatch:  # Allows manual triggering of the workflow
 
 jobs:
   update-time:
@@ -20,16 +20,11 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-    - name: Pull latest changes
-      run: git pull origin main
-
     - name: Update example.txt with current time
       run: |
-        echo "Current time: $(date)" >> example.txt
+        echo "Current time: $(date)" > example.txt
         git add example.txt
         git commit -m "Update example.txt with current time"
-
-    - name: Push changes
-      run: git push origin main
+        git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
