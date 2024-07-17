@@ -1,0 +1,22 @@
+name: Post a Random Meme
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # Every day at 9 AM
+
+jobs:
+  post-meme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Generate a random meme
+      id: generate-meme
+      run: |
+        meme=$(curl -s https://meme-api.herokuapp.com/gimme)
+        echo "::set-output name=meme::${meme}"
+
+    - name: Create an issue
+      uses: peter-evans/create-issue-from-file@v2
+      with:
+        title: "Daily Meme"
+        content-filepath: meme.json
