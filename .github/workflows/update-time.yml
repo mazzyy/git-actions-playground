@@ -3,6 +3,7 @@ name: Update File with Current Time
 on:
   schedule:
     - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-time:
@@ -11,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Update example.txt with current time
       run: |
@@ -20,3 +23,5 @@ jobs:
         git add example.txt
         git commit -m "Update example.txt with current time"
         git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
