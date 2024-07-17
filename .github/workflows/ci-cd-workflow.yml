@@ -15,7 +15,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
-        repository: musawar96/workflow
+        repository: musawar96/git-actions-playground  # Updated to your GitHub repo
+        ref: main  # Specify the branch name
 
     - name: Build Docker image
       run: |
@@ -44,7 +45,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
-        repository: musawar96/workflow
+        repository: musawar96/git-actions-playground  # Updated to your GitHub repo
+        ref: main  # Specify the branch name
 
     - name: Deploy Docker image
       run: |
@@ -61,7 +63,8 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
-        repository: musawar96/workflow
+        repository: musawar96/git-actions-playground  # Updated to your GitHub repo
+        ref: main  # Specify the branch name
 
     - name: Deploy on server
       run: |
