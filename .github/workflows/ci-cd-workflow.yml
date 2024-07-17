@@ -9,6 +9,7 @@ on:
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
+    name: Build and Test
 
     steps:
     - name: Checkout repository
@@ -37,6 +38,7 @@ jobs:
   deploy-docker-image:
     runs-on: ubuntu-latest
     needs: build-and-test
+    name: Deploy Docker Image
 
     steps:
     - name: Checkout repository
@@ -53,6 +55,7 @@ jobs:
   deploy-on-server:
     runs-on: ubuntu-latest
     needs: deploy-docker-image
+    name: Deploy on Server
 
     steps:
     - name: Checkout repository
