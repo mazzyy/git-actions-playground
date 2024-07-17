@@ -1,0 +1,65 @@
+name: Python Docker CI/CD
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        repository: musawar96/workflow
+
+    - name: Build Docker image
+      run: |
+        docker build -t musawar96/workflow .
+    
+    - name: Run Docker container
+      run: |
+        docker run --name workflow-container -d musawar96/workflow
+        sleep 5  # Wait for container to start
+
+    - name: Check Docker container output
+      run: |
+        docker logs workflow-container
+    
+    - name: Stop and remove Docker container
+      run: |
+        docker stop workflow-container
+        docker rm workflow-container
+
+  deploy-docker-image:
+    runs-on: ubuntu-latest
+    needs: build-and-test
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        repository: musawar96/workflow
+
+    - name: Deploy Docker image
+      run: |
+        docker tag musawar96/workflow musawar96/workflow:latest
+        echo ${{ secrets.DOCKER_PASSWORD }} | docker login -u ${{ secrets.DOCKER_USERNAME }} --password-stdin
+        docker push musawar96/workflow:latest
+
+  deploy-on-server:
+    runs-on: ubuntu-latest
+    needs: deploy-docker-image
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        repository: musawar96/workflow
+
+    - name: Deploy on server
+      run: |
+        ssh -o StrictHostKeyChecking=no -i ${{ secrets.SERVER_SSH_KEY }} user@server 'docker pull musawar96/workflow:latest && docker run -d -p 80:80 musawar96/workflow:latest'
