@@ -15,7 +15,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
-        repository: musawar96/git-actions-playground  # Updated to your GitHub repo
+        repository: mazzyy/git-actions-playground  # Updated to your GitHub repo
         ref: main  # Specify the branch name
 
     - name: Build Docker image
