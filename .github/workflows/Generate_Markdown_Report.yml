@@ -1,4 +1,4 @@
-name: Post a Random Meme
+name: Generate and Push Markdown Report
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  post-meme:
+  generate-report:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,8 +30,19 @@ jobs:
         echo "${meme}" > meme.json
         echo "::set-output name=meme::${meme}"
 
-    - name: Create an issue
-      uses: peter-evans/create-issue-from-file@v2
-      with:
-        title: "Daily Meme"
-        content-filepath: meme.json
+    - name: Create report
+      run: |
+        echo "# Daily Meme Report" > report.md
+        echo "" >> report.md
+        echo "## Meme of the Day" >> report.md
+        jq '. | "### \(.title)\n\n![Meme](\(.url))\n\n[View on Reddit](\(.postLink))"' meme.json >> report.md
+
+    - name: Commit and push report
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add report.md
+        git commit -m "Daily Meme Report"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
