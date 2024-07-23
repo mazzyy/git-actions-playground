@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/z3ao6f1bjudd1.png)\n\n[View on Reddit](https://redd.it/1e8j09g)"
+"### You’re so beautiful, a beautiful fucked up man\n\n![Meme](https://i.redd.it/i45e9v8b20ed1.gif)\n\n[View on Reddit](https://redd.it/1e95r3b)"
