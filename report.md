@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Just google it!\n\n![Meme](https://i.redd.it/ojt6i2wticed1.png)\n\n[View on Reddit](https://redd.it/1eald0u)"
+"### me irl\n\n![Meme](https://i.redd.it/8tw0wzl9lnz81.gif)\n\n[View on Reddit](https://redd.it/1ebdg32)"
