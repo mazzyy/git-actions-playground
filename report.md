@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Kendrick really dropped an anthem\n\n![Meme](https://i.redd.it/ejuvp05wnhed1.gif)\n\n[View on Reddit](https://redd.it/1eb4z66)"
+"### me_irl\n\n![Meme](https://i.redd.it/a568fsjafqed1.png)\n\n[View on Reddit](https://redd.it/1ec6exr)"
