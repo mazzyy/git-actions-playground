@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Oh boy, they're sure working for that R-rating!\n\n![Meme](https://i.redd.it/91s1sfu5u5gd1.png)\n\n[View on Reddit](https://redd.it/1ehyne5)"
+"### I'm stuck here\n\n![Meme](https://i.redd.it/ss3940s6bigd1.png)\n\n[View on Reddit](https://redd.it/1ejcrzw)"
