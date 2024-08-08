@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.imgur.com/lqIqBUu.png)\n\n[View on Reddit](https://redd.it/1elsaqt)"
+"### \"Wait, that wasn't suppose to happen!\"\n\n![Meme](https://i.redd.it/o778lwrxmygd1.png)\n\n[View on Reddit](https://redd.it/1el78g0)"
