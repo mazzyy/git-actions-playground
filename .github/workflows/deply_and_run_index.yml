@@ -17,11 +17,34 @@ jobs:
       - name: Log in to Docker Hub
         run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin
 
-      - name: Build dockerfile 
+      - name: Build Dockerfile
         run: |
-             docker build --build-arg PERSONAL_ACCESS_TOKEN_GITHUB=${{ secrets.PERSONAL_ACCESS_TOKEN_GITHUB }}  -t musawar96/testing2:latest .
+             docker build --build-arg PERSONAL_ACCESS_TOKEN_GITHUB=${{ secrets.PERSONAL_ACCESS_TOKEN_GITHUB }} -t musawar96/testing2:latest .
       
-      - name: deply docker file to hub 
+      - name: Push Docker image to Docker Hub
         run: |
-            docker push musawar96/testing2:latest 
-     
+            docker push musawar96/testing2:latest
+
+      - name: Set up Google Cloud SDK
+        uses: google-github-actions/setup-gcloud@v1
+        with:
+          version: 'latest'
+          project_id: ${{ secrets.GCP_PROJECT_ID }}
+          service_account_key: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Log in to Google Container Registry
+        run: gcloud auth configure-docker
+
+      - name: Tag Docker image for GCR
+        run: docker tag musawar96/testing2:latest gcr.io/${{ secrets.GCP_PROJECT_ID }}/my-app:latest
+
+      - name: Push Docker image to GCR
+        run: docker push gcr.io/${{ secrets.GCP_PROJECT_ID }}/my-app:latest
+
+      - name: Deploy to Cloud Run
+        run: |
+          gcloud run deploy my-app \
+            --image gcr.io/${{ secrets.GCP_PROJECT_ID }}/my-app:latest \
+            --platform managed \
+            --region us-central1 \
+            --allow-unauthenticated
