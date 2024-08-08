@@ -23,5 +23,5 @@ jobs:
       
       - name: deply docker file to hub 
         run: |
-            docker push musawar96/testing2:latest .
+            docker push musawar96/testing2:latest 
      
