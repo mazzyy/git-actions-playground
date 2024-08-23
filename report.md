@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I think we should\n\n![Meme](https://i.redd.it/mf4ivvthe2kd1.png)\n\n[View on Reddit](https://redd.it/1exxwop)"
+"### \"Damn jimmy ,Serious gourmet shi\"\n\n![Meme](https://i.redd.it/l2uyl41vgckd1.gif)\n\n[View on Reddit](https://redd.it/1ez4ak3)"
