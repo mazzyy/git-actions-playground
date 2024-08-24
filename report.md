@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### \"Damn jimmy ,Serious gourmet shi\"\n\n![Meme](https://i.redd.it/l2uyl41vgckd1.gif)\n\n[View on Reddit](https://redd.it/1ez4ak3)"
+"### The Least of All Evils.\n\n![Meme](https://i.redd.it/5guhf91zhhkd1.png)\n\n[View on Reddit](https://redd.it/1ezorfj)"
