@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Welp, not many options left, I guess\n\n![Meme](https://i.redd.it/ce8j9ozn1gkd1.png)\n\n[View on Reddit](https://redd.it/1ezhqal)"
+"### So much for cool pics\n\n![Meme](https://i.redd.it/jdb4rjpjgmkd1.png)\n\n[View on Reddit](https://redd.it/1f06jqv)"
