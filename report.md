@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Happy trails\n\n![Meme](https://i.redd.it/vuankoxbz0nd1.png)\n\n[View on Reddit](https://redd.it/1f9s3sb)"
+"### me_irl\n\n![Meme](https://i.redd.it/czh4tdu0fcnd1.png)\n\n[View on Reddit](https://redd.it/1fb1t07)"
