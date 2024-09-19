@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I Wonder If There's a Correlation.\n\n![Meme](https://i.redd.it/6vddtn7usepd1.png)\n\n[View on Reddit](https://redd.it/1fj67py)"
+"### The best security minds in the nation at one conference!\n\n![Meme](https://clubsall.com/posts/the-best-security-minds-in-the-nation-at-one-conference-vT2C0.jpg)\n\n[View on Reddit](https://redd.it/1fk7gf5)"
