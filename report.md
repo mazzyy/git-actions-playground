@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### The best security minds in the nation at one conference!\n\n![Meme](https://clubsall.com/posts/the-best-security-minds-in-the-nation-at-one-conference-vT2C0.jpg)\n\n[View on Reddit](https://redd.it/1fk7gf5)"
+"### Tell me about it\n\n![Meme](https://i.redd.it/t48utjh1kqpd1.gif)\n\n[View on Reddit](https://redd.it/1fkgtnr)"
