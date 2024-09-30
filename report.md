@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### It's been that kind of week\n\n![Meme](https://i.redd.it/qhvslqkaufrd1.png)\n\n[View on Reddit](https://redd.it/1fr1ctx)"
+"### Which one are you?\n\n![Meme](https://i.redd.it/0jb3jbt88urd1.gif)\n\n[View on Reddit](https://redd.it/1fsiiel)"
