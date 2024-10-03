@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### IRL???\n\n![Meme](https://i.redd.it/3rh7eonma5sd1.png)\n\n[View on Reddit](https://redd.it/1ftnuua)"
+"### People running for office in 2024\n\n![Meme](https://i.redd.it/ipfeshertdsd1.png)\n\n[View on Reddit](https://redd.it/1fummd6)"
