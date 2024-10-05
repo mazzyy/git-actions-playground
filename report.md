@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Stay thirsty, my friends. \n\n![Meme](https://i.redd.it/eurtfl3xi8sd1.gif)\n\n[View on Reddit](https://redd.it/1fu355x)"
+"### me_irl\n\n![Meme](https://i.redd.it/b609qa7ihpsd1.png)\n\n[View on Reddit](https://redd.it/1fvuv3c)"
