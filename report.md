@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### It's not always about a hurricane. \n\n![Meme](https://i.redd.it/wcge8milwivd1.png)\n\n[View on Reddit](https://redd.it/1g6j3cu)"
+"### me_irl\n\n![Meme](https://i.redd.it/qzgbwiwpmwvd1.gif)\n\n[View on Reddit](https://redd.it/1g7xik4)"
