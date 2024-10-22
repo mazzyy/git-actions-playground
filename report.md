@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/qzgbwiwpmwvd1.gif)\n\n[View on Reddit](https://redd.it/1g7xik4)"
+"### Prove me wrong.\n\n![Meme](https://i.redd.it/yyf88gv606wd1.png)\n\n[View on Reddit](https://redd.it/1g8z4a3)"
