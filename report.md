@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Prove me wrong.\n\n![Meme](https://i.redd.it/yyf88gv606wd1.png)\n\n[View on Reddit](https://redd.it/1g8z4a3)"
+"### hot tits != tasty bristles\n\n![Meme](https://i.redd.it/myljbiqld5wd1.png)\n\n[View on Reddit](https://redd.it/1g8w045)"
