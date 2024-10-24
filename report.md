@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### hot tits != tasty bristles\n\n![Meme](https://i.redd.it/myljbiqld5wd1.png)\n\n[View on Reddit](https://redd.it/1g8w045)"
+"### Mariah carey is defrosting very quickly now. Be afraid\n\n![Meme](https://i.redd.it/mexoq9otdjwd1.png)\n\n[View on Reddit](https://redd.it/1gafhgo)"
