@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Dung beetle appreciation post\n\n![Meme](https://i.redd.it/cp8ystq143zd1.png)\n\n[View on Reddit](https://redd.it/1gk6ld9)"
+"### Not sure if this is allowed. I'll risk it.\n\n![Meme](https://i.redd.it/jh69iya0mazd1.png)\n\n[View on Reddit](https://redd.it/1gkzz7f)"
