@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/yof8wi8d600e1.png)\n\n[View on Reddit](https://redd.it/1gnsq3j)"
+"### Shitty standards either way\n\n![Meme](https://media.makeameme.org/created/not-sure-if-25619234ce.jpg)\n\n[View on Reddit](https://redd.it/1gobqi7)"
