@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Shitty standards either way\n\n![Meme](https://media.makeameme.org/created/not-sure-if-25619234ce.jpg)\n\n[View on Reddit](https://redd.it/1gobqi7)"
+"### it happens \n\n![Meme](https://i.redd.it/dxqj8ja4ia0e1.png)\n\n[View on Reddit](https://redd.it/1goumcy)"
