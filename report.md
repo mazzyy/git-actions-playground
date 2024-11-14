@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.imgur.com/LRLPaY7.png)\n\n[View on Reddit](https://redd.it/1gothp7)"
+"### Sorry bout that, Jake.\n\n![Meme](https://i.redd.it/2veo0me2xq0e1.png)\n\n[View on Reddit](https://redd.it/1gqpnz3)"
