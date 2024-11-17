@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### A title\n\n![Meme](https://i.redd.it/qrzbie0bsy0e1.png)\n\n[View on Reddit](https://redd.it/1grkdsm)"
+"### Maybe I can learn some knots I guess\n\n![Meme](https://i.redd.it/u9dmcqkavd1e1.png)\n\n[View on Reddit](https://redd.it/1gt4vpd)"
