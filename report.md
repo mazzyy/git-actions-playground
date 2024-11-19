@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/yvgbezgi8h1e1.png)\n\n[View on Reddit](https://redd.it/1gtffh9)"
+"### I have my money on the baby.\n\n![Meme](https://i.redd.it/dfnbdc8luo1e1.gif)\n\n[View on Reddit](https://redd.it/1gu902p)"
