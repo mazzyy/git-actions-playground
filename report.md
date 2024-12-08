@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### They really do be like that\n\n![Meme](https://i.redd.it/8vcr5fdtgz4e1.gif)\n\n[View on Reddit](https://redd.it/1h73uwt)"
+"### yes, you\n\n![Meme](https://i.redd.it/4mntohl2bi5e1.png)\n\n[View on Reddit](https://redd.it/1h94ki0)"
