@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### The king has fallen\n\n![Meme](https://i.redd.it/518uw970v36e1.png)\n\n[View on Reddit](https://redd.it/1hbfgyn)"
+"### nobody has time\n\n![Meme](https://i.redd.it/j2lw0gn47f6e1.png)\n\n[View on Reddit](https://redd.it/1hcl797)"
