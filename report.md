@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Title\n\n![Meme](https://i.redd.it/ejxgmcijs48e1.png)\n\n[View on Reddit](https://redd.it/1hj2ehw)"
+"### They really do be like that\n\n![Meme](https://i.redd.it/v38nqw394k8e1.gif)\n\n[View on Reddit](https://redd.it/1hkja4u)"
