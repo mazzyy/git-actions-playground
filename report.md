@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### You're not an orthodox fascist, shut the fuck up and do your homework\n\n![Meme](https://i.redd.it/ycw0a0bgx29e1.png)\n\n[View on Reddit](https://redd.it/1hmbnjy)"
+"### Delic‬ious Ch‬rist‬mas dr‬ink\n\n![Meme](https://i.redd.it/69is8r21819e1.gif)\n\n[View on Reddit](https://redd.it/1hm59yz)"
