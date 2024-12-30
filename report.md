@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Thank you to all the random strangers in the world.\n\n![Meme](https://i.redd.it/npzoeli4cp9e1.gif)\n\n[View on Reddit](https://redd.it/1homcyu)"
+"### What happened\n\n![Meme](https://i.redd.it/p70ypyqk6r9e1.png)\n\n[View on Reddit](https://redd.it/1hos9ev)"
