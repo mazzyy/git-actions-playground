@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Hope the rest of you have a happy new year\n\n![Meme](https://i.redd.it/nz288omrmbae1.png)\n\n[View on Reddit](https://redd.it/1hqwsu3)"
+"### PEGI - idiotic and/or corrupted organization.\n\n![Meme](https://i.redd.it/utbz1ivenfae1.png)\n\n[View on Reddit](https://redd.it/1hra6c5)"
