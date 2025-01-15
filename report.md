@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/y7aqpba68rce1.png)\n\n[View on Reddit](https://redd.it/1i0csfo)"
+"### It's over 9000! (psi)\n\n![Meme](https://i.redd.it/82smjogij2de1.png)\n\n[View on Reddit](https://redd.it/1i1ncrt)"
