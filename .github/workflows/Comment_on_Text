@@ -1,0 +1,27 @@
+name: Check Every 10 Minutes
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+  check-and-comment:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Check condition
+      id: check_condition
+      run: |
+        # condition check
+        echo "::set-output name=condition_met::true"
+
+    - name: Comment on issue
+      if: steps.check_condition.outputs.condition_met == 'true'
+      uses: peter-evans/create-or-update-comment@v1
+      with:
+        issue-number: 1 #r issue number
+        body: |
+          The condition was met. This is a comment added by the GitHub Actions workflow.

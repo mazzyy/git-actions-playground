@@ -1,0 +1,37 @@
+name: Post a Random Meme
+
+on:
+  schedule:
+    - cron: '0 9 * * *' # Every day at 9 AM
+  workflow_dispatch:
+
+jobs:
+  post-meme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' # Specify the required Python version
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r https://raw.githubusercontent.com/peter-evans/create-issue-from-file/v2/dist/ciff/requirements.txt --no-index --find-links=https://raw.githubusercontent.com/peter-evans/create-issue-from-file/v2/dist/vendor
+
+    - name: Generate a random meme
+      id: generate-meme
+      run: |
+        meme=$(curl -s https://meme-api.com/gimme)
+        echo "${meme}" > meme.json
+        echo "::set-output name=meme::${meme}"
+
+    - name: Create an issue
+      uses: peter-evans/create-issue-from-file@v2
+      with:
+        title: "Daily Meme"
+        content-filepath: meme.json

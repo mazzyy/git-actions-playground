@@ -1,0 +1,25 @@
+name: Update File with Current Time
+on:
+  schedule:
+    - cron: '0 0 */2 * *'  # Runs every 5 minutes
+  workflow_dispatch:  # Allows manual triggering of the workflow
+jobs:
+  update-time:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Set up Git configuration
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+    - name: Update example.txt with current time
+      run: |
+        echo "Current time: $(date)" > example.txt
+        git add example.txt
+        git commit -m "Update example.txt with current time"
+        git push origin main
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
