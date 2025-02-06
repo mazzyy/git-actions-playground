@@ -1,0 +1,66 @@
+# dummy pipeline for python_and_docker
+name: python_docker_pipeline  # Fixed typo in pipeline name
+
+on:
+  push:
+    branches:
+      - main  # Trigger pipeline only on pushes to the main branch
+
+jobs:
+  test:
+    name: Run Unit Tests & Code Quality Checks  # Descriptive job name
+    runs-on: ubuntu-latest  
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3  
+
+      - name: Set Up Python
+        uses: actions/setup-python@v3  
+        with:
+          python-version: '3.9'  
+
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt  # Fixed incorrect syntax
+          pip install flake8 pytest  # Installing test & linting tools
+
+      - name: Run Unit Tests
+        run: pytest tests/ 
+
+      - name: Run Flake8 for Code Quality
+        run: flake8 .
+
+  build:
+    name: Build & Push Docker Image 
+    runs-on: ubuntu-latest  # Fixed syntax: "run-on" → "runs-on"
+
+    needs: test  # Ensures "test" job passes before running "build"
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3  # Added step to fetch the repository
+
+      - name: Build Docker Image
+        run: docker build -t username/repo_name:latest .  # Fixed incorrect "docker create"
+
+      - name: Log in to DockerHub
+        run: echo "${{ secrets.DOCKER_PASSWORD }}" | docker login -u "${{ secrets.DOCKER_USERNAME }}" --password-stdin  # Fixed incorrect secret names
+
+      - name: Push Docker Image to DockerHub
+        run: docker push username/repo_name:latest  # Fixed incorrect repo name
+
+  deploy:
+    name: Deploy to GCP Server
+    runs-on: ubuntu-latest  # Fixed "run_on" → "runs-on"
+
+    needs: build 
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Deploy to GCP Server
+        run: |
+          ssh -o StrictHostKeyChecking=no -i ${{ secrets.SSH_KEY }} ${{ secrets.DEPLOY_SERVER }} \
+          'docker pull username/repo_name:latest && docker run -d -p 80:80 username/repo_name:latest'
