@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/dk7zpc2ikmhe1.png)\n\n[View on Reddit](https://redd.it/1ijk2c2)"
+"### ‘You’re doing the right thing’\n\n![Meme](https://i.redd.it/lyj8btmakmhe1.gif)\n\n[View on Reddit](https://redd.it/1ijk1gc)"
