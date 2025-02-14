@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### That’s right, broseph\n\n![Meme](https://i.redd.it/53umn1b7fuie1.gif)\n\n[View on Reddit](https://redd.it/1ioc545)"
+"### I hope my valentine gets the hint\n\n![Meme](https://i.redd.it/pyzhoxa8f1je1.png)\n\n[View on Reddit](https://redd.it/1ip3632)"
