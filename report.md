@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Shit winds are a-comin’\n\n![Meme](https://i.redd.it/nwxijimio4le1.gif)\n\n[View on Reddit](https://redd.it/1ix8q8m)"
+"### it's difficult in a simple way\n\n![Meme](https://i.redd.it/acosbm2yxble1.png)\n\n[View on Reddit](https://redd.it/1iy29rd)"
