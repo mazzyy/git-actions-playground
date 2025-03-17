@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I didn't even do anything wtf\n\n![Meme](https://i.redd.it/7llcgnzpyvoe1.png)\n\n[View on Reddit](https://redd.it/1jbzwop)"
+"### well well well well\n\n![Meme](https://i.redd.it/7jzkuyu2y1pe1.png)\n\n[View on Reddit](https://redd.it/1jcl8s1)"
