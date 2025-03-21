@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/3wojnfdxvope1.png)\n\n[View on Reddit](https://redd.it/1jf3y16)"
+"### Asshole genie\n\n![Meme](https://i.redd.it/co4yvt4w0vpe1.png)\n\n[View on Reddit](https://redd.it/1jfr1ln)"
