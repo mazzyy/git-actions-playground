@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Worst thing that can happen to a man\n\n![Meme](https://i.redd.it/ri8cwpsvioqe1.png)\n\n[View on Reddit](https://redd.it/1jixnj4)"
+"### look me in the eyes\n\n![Meme](https://i.redd.it/52i7f3xzzmqe1.png)\n\n[View on Reddit](https://redd.it/1jiqaaa)"
