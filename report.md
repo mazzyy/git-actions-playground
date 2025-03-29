@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Why is it actually happening again?\n\n![Meme](https://i.redd.it/qmev3uu4s8re1.png)\n\n[View on Reddit](https://redd.it/1jl546h)"
+"### I can't do it\n\n![Meme](https://i.redd.it/2w8o7oewjdre1.gif)\n\n[View on Reddit](https://redd.it/1jlosol)"
