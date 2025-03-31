@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### It do be like that\n\n![Meme](https://i.redd.it/orn2b3va2mre1.png)\n\n[View on Reddit](https://redd.it/1jmjw5k)"
+"### How lucky can one guy be\n\n![Meme](https://i.redd.it/7t6j0w59gbre1.gif)\n\n[View on Reddit](https://redd.it/1jlh037)"
