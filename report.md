@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Naggy Beard logic\n\n![Meme](https://i.redd.it/27ndqet22ase1.png)\n\n[View on Reddit](https://redd.it/1jp4xqd)"
+"### true story\n\n![Meme](https://i.redd.it/6e9wr5ilo6se1.gif)\n\n[View on Reddit](https://redd.it/1joqmf4)"
