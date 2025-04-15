@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### You are WRONG!\n\n![Meme](https://i.redd.it/qe5tzbvemhue1.gif)\n\n[View on Reddit](https://redd.it/1jxu71o)"
+"### Black power\n\n![Meme](https://i.redd.it/mj5oq97g8pue1.gif)\n\n[View on Reddit](https://redd.it/1jymr0a)"
