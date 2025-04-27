@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Getting a lot of mileage out of it lately\n\n![Meme](https://i.redd.it/m1g29dzgz2xe1.gif)\n\n[View on Reddit](https://redd.it/1k818an)"
+"### Me_irl\n\n![Meme](https://i.redd.it/t11nkp806zwe1.png)\n\n[View on Reddit](https://redd.it/1k7jq1n)"
