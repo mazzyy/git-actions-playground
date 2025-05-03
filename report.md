@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Greed corrupts everything eventually\n\n![Meme](https://i.redd.it/qwq58ot248ye1.png)\n\n[View on Reddit](https://redd.it/1kchlki)"
+"### :(((((((((\n\n![Meme](https://i.redd.it/7urjy2ogfhye1.gif)\n\n[View on Reddit](https://redd.it/1kdj15y)"
