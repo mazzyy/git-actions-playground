@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### :(((((((((\n\n![Meme](https://i.redd.it/7urjy2ogfhye1.gif)\n\n[View on Reddit](https://redd.it/1kdj15y)"
+"### you never know\n\n![Meme](https://i.redd.it/l07r23kh6dye1.gif)\n\n[View on Reddit](https://redd.it/1kczzhy)"
