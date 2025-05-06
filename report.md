@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### God forbid I exist as a morally gray human being\n\n![Meme](https://i.redd.it/ztqqkk37srye1.png)\n\n[View on Reddit](https://redd.it/1kek80p)"
+"### me_irl\n\n![Meme](https://i.redd.it/lj0e3s8h0tye1.png)\n\n[View on Reddit](https://redd.it/1kepzeg)"
