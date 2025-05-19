@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Housing Market Got Me Barking Mad\n\n![Meme](https://i.redd.it/snp8wemvxg1f1.png)\n\n[View on Reddit](https://redd.it/1kpbqhs)"
+"### That’s quite a surprise\n\n![Meme](https://i.redd.it/lqrlnjktxd1f1.png)\n\n[View on Reddit](https://redd.it/1kozq9t)"
