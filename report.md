@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/jifapphx062f1.png)\n\n[View on Reddit](https://redd.it/1ks2vsg)"
+"### I can’t stand em’\n\n![Meme](https://i.redd.it/4gxgp0r1qe2f1.gif)\n\n[View on Reddit](https://redd.it/1kt3ha7)"
