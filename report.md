@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/k51y2ic44r3f1.png)\n\n[View on Reddit](https://redd.it/1kyfuwm)"
+"### Great reward, eh?\n\n![Meme](https://i.redd.it/xbs8dso9re4f1.gif)\n\n[View on Reddit](https://redd.it/1l14bln)"
