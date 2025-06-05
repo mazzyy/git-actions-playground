@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/un50dp63wj4f1.png)\n\n[View on Reddit](https://redd.it/1l1odow)"
+"### He illy was like that\n\n![Meme](https://i.redd.it/9bu8w76xg15f1.gif)\n\n[View on Reddit](https://redd.it/1l3qly8)"
