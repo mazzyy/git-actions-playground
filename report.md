@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me irl\n\n![Meme](https://i.redd.it/mwl03aidag5f1.png)\n\n[View on Reddit](https://redd.it/1l5ecj8)"
+"### Love ya babe\n\n![Meme](https://i.redd.it/br45vdnu5g5f1.gif)\n\n[View on Reddit](https://redd.it/1l5dys3)"
