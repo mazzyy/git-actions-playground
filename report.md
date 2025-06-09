@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Love ya babe\n\n![Meme](https://i.redd.it/br45vdnu5g5f1.gif)\n\n[View on Reddit](https://redd.it/1l5dys3)"
+"### There is no title.\n\n![Meme](https://i.redd.it/1qm920c4qf5f1.png)\n\n[View on Reddit](https://redd.it/1l5cksp)"
