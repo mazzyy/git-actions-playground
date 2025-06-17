@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/3l2l4jy2ow6f1.png)\n\n[View on Reddit](https://redd.it/1lbaexn)"
+"### 2nd fastest hero on earth\n\n![Meme](https://i.redd.it/ew5jn517b37f1.png)\n\n[View on Reddit](https://redd.it/1lbzwj7)"
