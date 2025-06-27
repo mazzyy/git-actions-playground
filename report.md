@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/xfq08dl7zs8f1.png)\n\n[View on Reddit](https://redd.it/1lj1xce)"
+"### It looks anatomically correct\n\n![Meme](https://i.redd.it/yoh3niutc29f1.gif)\n\n[View on Reddit](https://redd.it/1lk3thk)"
