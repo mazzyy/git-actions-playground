@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Bro was Jesus Christ\n\n![Meme](https://i.redd.it/lshax2fvpebf1.png)\n\n[View on Reddit](https://redd.it/1lto6ec)"
+"### me_irl\n\n![Meme](https://i.redd.it/o6ho6nkqncbf1.gif)\n\n[View on Reddit](https://redd.it/1ltgyaw)"
