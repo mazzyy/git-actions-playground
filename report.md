@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### If you want to be…just be\n\n![Meme](https://i.redd.it/15p5szfdkxcf1.gif)\n\n[View on Reddit](https://redd.it/1m03495)"
+"### I might need a physical defense mechanism instead of a mental one\n\n![Meme](https://i.redd.it/awh9eu56oncf1.gif)\n\n[View on Reddit](https://redd.it/1lyusmx)"
