@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I might need a physical defense mechanism instead of a mental one\n\n![Meme](https://i.redd.it/awh9eu56oncf1.gif)\n\n[View on Reddit](https://redd.it/1lyusmx)"
+"### Only one option left\n\n![Meme](https://i.redd.it/r1w3pp3xs2df1.gif)\n\n[View on Reddit](https://redd.it/1m0om06)"
