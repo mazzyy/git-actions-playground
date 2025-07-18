@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Only one option left\n\n![Meme](https://i.redd.it/r1w3pp3xs2df1.gif)\n\n[View on Reddit](https://redd.it/1m0om06)"
+"### \"I'm on a diet\"\n\n![Meme](https://i.redd.it/mlhwre9kzkdf1.png)\n\n[View on Reddit](https://redd.it/1m2vgql)"
