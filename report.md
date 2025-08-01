@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### God forbid a man admires himself\n\n![Meme](https://i.redd.it/e0v06u9uu0gf1.png)\n\n[View on Reddit](https://redd.it/1md839u)"
+"### me_irl\n\n![Meme](https://i.redd.it/m8ihr5vq0dgf1.png)\n\n[View on Reddit](https://redd.it/1mepze0)"
