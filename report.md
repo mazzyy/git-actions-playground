@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/valf9xuh7rhf1.png)\n\n[View on Reddit](https://redd.it/1mkpg9m)"
+"### Imagine if they were swapped and Cartoon Network made Fanboy and Chum Chum peak fiction\n\n![Meme](https://i.redd.it/0g7me0uzkxhf1.png)\n\n[View on Reddit](https://redd.it/1mlhq9b)"
