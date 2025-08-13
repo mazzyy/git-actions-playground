@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### *totally not planning to strangle you strangle you while you're asleep*\n\n![Meme](https://i.redd.it/dl5l3948mgif1.png)\n\n[View on Reddit](https://redd.it/1mnq141)"
+"### me_irl\n\n![Meme](https://i.redd.it/ayixwcynslif1.png)\n\n[View on Reddit](https://redd.it/1mob5m7)"
