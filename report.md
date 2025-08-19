@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Youtube needs competition\n\n![Meme](https://i.redd.it/nasrg6dnwkjf1.png)\n\n[View on Reddit](https://redd.it/1msqjgf)"
+"### me-irl\n\n![Meme](https://i.redd.it/kuozbdr1gsjf1.png)\n\n[View on Reddit](https://redd.it/1mtnmk9)"
