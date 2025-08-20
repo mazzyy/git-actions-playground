@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me-irl\n\n![Meme](https://i.redd.it/kuozbdr1gsjf1.png)\n\n[View on Reddit](https://redd.it/1mtnmk9)"
+"### Nooooooooooooooo, let me back to sleep\n\n![Meme](https://i.redd.it/whta4lbv8yjf1.png)\n\n[View on Reddit](https://redd.it/1mue3ya)"
