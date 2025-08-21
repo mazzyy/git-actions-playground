@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Nooooooooooooooo, let me back to sleep\n\n![Meme](https://i.redd.it/whta4lbv8yjf1.png)\n\n[View on Reddit](https://redd.it/1mue3ya)"
+"### Your reign of terror is no more\n\n![Meme](https://i.redd.it/f89wh9un00kf1.png)\n\n[View on Reddit](https://redd.it/1mumgux)"
