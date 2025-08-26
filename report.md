@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/j730qrl4iykf1.png)\n\n[View on Reddit](https://redd.it/1mytm7g)"
+"### I get it now\n\n![Meme](https://i.redd.it/ewglbu6pb7lf1.gif)\n\n[View on Reddit](https://redd.it/1mzx2hy)"
