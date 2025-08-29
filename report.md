@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### The propaganda is falling apart\n\n![Meme](https://i.redd.it/z1779n9jkelf1.png)\n\n[View on Reddit](https://redd.it/1n0t0yg)"
+"### 9am surrender. Wish me luck\n\n![Meme](https://i.redd.it/46z1qnxmqmlf1.gif)\n\n[View on Reddit](https://redd.it/1n1tnlq)"
