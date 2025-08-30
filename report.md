@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### 9am surrender. Wish me luck\n\n![Meme](https://i.redd.it/46z1qnxmqmlf1.gif)\n\n[View on Reddit](https://redd.it/1n1tnlq)"
+"### Based Bing?\n\n![Meme](https://i.redd.it/5q9qs5a9j3mf1.png)\n\n[View on Reddit](https://redd.it/1n3u0ce)"
