@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/fbjb45ywgylf1.png)\n\n[View on Reddit](https://redd.it/1n36mev)"
+"### When one of the boys tells the group to assemble for a bar run\n\n![Meme](https://i.redd.it/8sufbtir5amf1.gif)\n\n[View on Reddit](https://redd.it/1n4l95j)"
