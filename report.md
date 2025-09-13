@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I wonder what the title of this would be\n\n![Meme](https://i.redd.it/61d3u2ft59of1.png)\n\n[View on Reddit](https://redd.it/1nd31vt)"
+"### Local on the 8s severe weather theme\n\n![Meme](https://i.redd.it/g5yiyf6qytof1.png)\n\n[View on Reddit](https://redd.it/1nfk4q5)"
