@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I wonder why that cut such an important scene out of the movie\n\n![Meme](https://i.redd.it/yeedfwggb7qf1.gif)\n\n[View on Reddit](https://redd.it/1nli18x)"
+"### 50,000 people used to live here, now it's a ghost town\n\n![Meme](https://i.redd.it/77v334fyuxqf1.gif)\n\n[View on Reddit](https://redd.it/1nollcf)"
