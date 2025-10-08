@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/wcq4owj7hitf1.png)\n\n[View on Reddit](https://redd.it/1nzmi1k)"
+"### A British time paradox.\n\n![Meme](https://i.redd.it/3w31lj7umltf1.png)\n\n[View on Reddit](https://redd.it/1o02l1s)"
