@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Yes I want a fat ugly poor white boy who smells.\n\n![Meme](https://i.redd.it/nzp9w73o8ltf1.gif)\n\n[View on Reddit](https://redd.it/1o00w0g)"
+"### Seriously who is this guy?\n\n![Meme](https://i.redd.it/360hv91745uf1.png)\n\n[View on Reddit](https://redd.it/1o2ftvb)"
