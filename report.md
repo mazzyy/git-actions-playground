@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Seriously who is this guy?\n\n![Meme](https://i.redd.it/360hv91745uf1.png)\n\n[View on Reddit](https://redd.it/1o2ftvb)"
+"### When your drink is warm enough to be comforting but not so hot it burns\n\n![Meme](https://i.redd.it/3c5vz50l5iuf1.png)\n\n[View on Reddit](https://redd.it/1o3yq6k)"
