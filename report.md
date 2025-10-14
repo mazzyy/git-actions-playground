@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/tyayk7tyvhuf1.png)\n\n[View on Reddit](https://redd.it/1o3xeg7)"
+"### a bit of a double standard, don't you think?\n\n![Meme](https://i.redd.it/fs7u3usklruf1.png)\n\n[View on Reddit](https://redd.it/1o5407i)"
