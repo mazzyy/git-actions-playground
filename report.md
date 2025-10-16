@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/xhkuh8t37vuf1.png)\n\n[View on Reddit](https://redd.it/1o5h4oo)"
+"### It'll get buried as quick as this meme does in new\n\n![Meme](https://i.redd.it/sibanwgxq7vf1.png)\n\n[View on Reddit](https://redd.it/1o72u2x)"
