@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/k1n04ruhzbwf1.png)\n\n[View on Reddit](https://redd.it/1obtozo)"
+"### Let's see who's more unemployed\n\n![Meme](https://i.redd.it/p9zmsxqof9wf1.png)\n\n[View on Reddit](https://redd.it/1obhob5)"
