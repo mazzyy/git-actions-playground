@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### found a loophole\n\n![Meme](https://i.redd.it/pmbksq6hjrwf1.gif)\n\n[View on Reddit](https://redd.it/1odqb3o)"
+"### It must be rough\n\n![Meme](https://i.redd.it/dpbkphkzvwwf1.png)\n\n[View on Reddit](https://redd.it/1oecg2p)"
