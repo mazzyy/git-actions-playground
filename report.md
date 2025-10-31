@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Can't be more accurate\n\n![Meme](https://i.redd.it/uxxcq62vo6yf1.png)\n\n[View on Reddit](https://redd.it/1ojrbnk)"
+"### Me_irl\n\n![Meme](https://i.redd.it/0q2jdwdya6yf1.gif)\n\n[View on Reddit](https://redd.it/1ojpyv9)"
