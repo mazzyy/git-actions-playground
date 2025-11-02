@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Those feature phones were a thing back then\n\n![Meme](https://i.redd.it/ylvjtapl93yf1.png)\n\n[View on Reddit](https://redd.it/1ojbg25)"
+"### Seriously, where do y’all get those from?\n\n![Meme](https://i.redd.it/5z2myvfzaqyf1.gif)\n\n[View on Reddit](https://redd.it/1om24fx)"
