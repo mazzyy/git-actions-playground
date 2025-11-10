@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/qx66313y6nzf1.png)\n\n[View on Reddit](https://redd.it/1opzjrt)"
+"### Licky licky\n\n![Meme](https://i.redd.it/h05lt1wkh30g1.png)\n\n[View on Reddit](https://redd.it/1orzz5g)"
