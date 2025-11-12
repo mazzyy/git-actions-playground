@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I feel the future might not be so great.\n\n![Meme](https://i.redd.it/gedwz0haovzf1.png)\n\n[View on Reddit](https://redd.it/1or24wm)"
+"### Why can’t I shoot the traitor!! Just let me do it!!!!\n\n![Meme](https://i.redd.it/ec8p0q9d2b0g1.gif)\n\n[View on Reddit](https://redd.it/1oswgjc)"
