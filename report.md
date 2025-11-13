@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Why can’t I shoot the traitor!! Just let me do it!!!!\n\n![Meme](https://i.redd.it/ec8p0q9d2b0g1.gif)\n\n[View on Reddit](https://redd.it/1oswgjc)"
+"### $250 only at your Apple store\n\n![Meme](https://i.redd.it/5cqr5zlf2z0g1.png)\n\n[View on Reddit](https://redd.it/1ovue5k)"
