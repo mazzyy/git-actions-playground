@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Ligma ballroom\n\n![Meme](https://i.redd.it/3p7b46vp6v0g1.png)\n\n[View on Reddit](https://redd.it/1ovc71d)"
+"### Am I getting old, or am I just on a low energy phase?\n\n![Meme](https://i.redd.it/48aifgbel91g1.png)\n\n[View on Reddit](https://redd.it/1ox49cj)"
