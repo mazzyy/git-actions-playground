@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### ts sadly true\n\n![Meme](https://i.redd.it/rdcgdvrilp2g1.png)\n\n[View on Reddit](https://redd.it/1p3g6f8)"
+"### stay in drugs and don't do school\n\n![Meme](https://i.redd.it/axgz8puz913g1.png)\n\n[View on Reddit](https://redd.it/1p4r2is)"
