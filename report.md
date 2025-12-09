@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/6vdhdf3x6t5g1.png)\n\n[View on Reddit](https://redd.it/1pgmkyg)"
+"### And you know it's happening again in a minute\n\n![Meme](https://i.redd.it/uugp4tg5hn5g1.png)\n\n[View on Reddit](https://redd.it/1pg09sf)"
