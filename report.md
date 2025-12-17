@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### ARMATURES!\n\n![Meme](https://i.redd.it/p886hff33g7g1.png)\n\n[View on Reddit](https://redd.it/1pnl6zp)"
+"### - We happy? - Yeah, we happy.\n\n![Meme](https://i.redd.it/fyju800s8z6g1.png)\n\n[View on Reddit](https://redd.it/1plly9m)"
