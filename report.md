@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I DARE U\n\n![Meme](https://i.redd.it/4bpoxkrhcc8g1.png)\n\n[View on Reddit](https://redd.it/1prbvik)"
+"### Here comes the money\n\n![Meme](https://i.redd.it/jsq0rpva2d8g1.gif)\n\n[View on Reddit](https://redd.it/1predia)"
