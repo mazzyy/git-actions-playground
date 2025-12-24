@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Here comes the money\n\n![Meme](https://i.redd.it/jsq0rpva2d8g1.gif)\n\n[View on Reddit](https://redd.it/1predia)"
+"### nutt dialed\n\n![Meme](https://i.redd.it/vvpxtenvuv8g1.png)\n\n[View on Reddit](https://redd.it/1ptkxk0)"
