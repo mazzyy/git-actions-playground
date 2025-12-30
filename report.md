@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Uh Oh! You've Just Been VCRed!\n\n![Meme](https://i.redd.it/ibmqypr5fo9g1.png)\n\n[View on Reddit](https://redd.it/1pwozc4)"
+"### Double standards, Huh?\n\n![Meme](https://i.redd.it/pw03zpc6qaag1.png)\n\n[View on Reddit](https://redd.it/1pzc3io)"
