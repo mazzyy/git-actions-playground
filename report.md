@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### null\n\n![Meme](null)\n\n[View on Reddit](null)"
+"### Its that simple\n\n![Meme](https://i.redd.it/4zriilddbscg1.png)\n\n[View on Reddit](https://redd.it/1qaayli)"
