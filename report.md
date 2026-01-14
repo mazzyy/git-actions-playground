@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Its that simple\n\n![Meme](https://i.redd.it/4zriilddbscg1.png)\n\n[View on Reddit](https://redd.it/1qaayli)"
+"### very unfair\n\n![Meme](https://i.redd.it/ujn40uo7vvcg1.png)\n\n[View on Reddit](https://redd.it/1qaq140)"
