@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### star wars\n\n![Meme](https://i.redd.it/7x2k39m38qeg1.png)\n\n[View on Reddit](https://redd.it/1qj21zb)"
+"### I made a meme about myself, hope that some artist in the crowd can relate\n\n![Meme](https://i.redd.it/7h6ukvq587fg1.png)\n\n[View on Reddit](https://redd.it/1ql9696)"
