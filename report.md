@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/awkr07ze0yfg1.png)\n\n[View on Reddit](https://redd.it/1qonqcx)"
+"### Fuuuuuuck that would have gotten them off my dick\n\n![Meme](https://i.redd.it/6lrjzilk9rfg1.gif)\n\n[View on Reddit](https://redd.it/1qnsbm2)"
