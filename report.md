@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/t2co4ebfftgg1.png)\n\n[View on Reddit](https://redd.it/1qsp7yx)"
+"### The most reasonable thing to do... is PANIC\n\n![Meme](https://i.redd.it/5c5j6b0b2ygg1.png)\n\n[View on Reddit](https://redd.it/1qta2tf)"
