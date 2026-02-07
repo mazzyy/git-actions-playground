@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I should buy a boat.\n\n![Meme](https://i.redd.it/n74zw73gkshg1.gif)\n\n[View on Reddit](https://redd.it/1qx6cfr)"
+"### toxic masculinity fan vs positive masculinity enjoyer\n\n![Meme](https://i.redd.it/p9bbemxg3ghg1.png)\n\n[View on Reddit](https://redd.it/1qvjwzl)"
