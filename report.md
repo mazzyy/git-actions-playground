@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Dogs are always better\n\n![Meme](https://i.redd.it/qmhfw27u8dig1.png)\n\n[View on Reddit](https://redd.it/1qzq0rq)"
+"### We're approaching levels of nothing that shouldn't even be possible\n\n![Meme](https://i.redd.it/h85egasz8jig1.png)\n\n[View on Reddit](https://redd.it/1r0gdsx)"
