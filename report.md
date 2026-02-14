@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Nicholas is angy\n\n![Meme](https://i.redd.it/iij7rp1b47jg1.png)\n\n[View on Reddit](https://redd.it/1r3ghwa)"
+"### Forgive me brother\n\n![Meme](https://i.redd.it/mx0v2z6psejg1.png)\n\n[View on Reddit](https://redd.it/1r4dzeq)"
