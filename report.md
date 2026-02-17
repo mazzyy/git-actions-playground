@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/plc1raoldcjg1.png)\n\n[View on Reddit](https://redd.it/1r43uts)"
+"### Living in the future, earphones edition\n\n![Meme](https://i.redd.it/uvfm56ltdujg1.png)\n\n[View on Reddit](https://redd.it/1r676w4)"
