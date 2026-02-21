@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/5s0anbgjmkkg1.gif)\n\n[View on Reddit](https://redd.it/1r9ksgz)"
+"### Rotate\n\n![Meme](https://i.redd.it/j58vl2nke8kg1.gif)\n\n[View on Reddit](https://redd.it/1r7zmfw)"
