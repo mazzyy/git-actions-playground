@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### AI is gud\n\n![Meme](https://i.redd.it/888dilimnzkg1.gif)\n\n[View on Reddit](https://redd.it/1rbebcc)"
+"### me_irl\n\n![Meme](https://i.redd.it/tsd9nwodvzlg1.png)\n\n[View on Reddit](https://redd.it/1rg0rjp)"
