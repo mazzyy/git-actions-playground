@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Historical events go bbbbbrrrrrtttt\n\n![Meme](https://i.redd.it/m5pbfv5p5gmg1.png)\n\n[View on Reddit](https://redd.it/1rhz5fh)"
+"### We have to, right ?\n\n![Meme](https://i.redd.it/j8w149zipumg1.gif)\n\n[View on Reddit](https://redd.it/1rjsqff)"
