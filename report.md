@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### You love it\n\n![Meme](https://i.redd.it/r8mide22azog1.png)\n\n[View on Reddit](https://redd.it/1rteuix)"
+"### Haven't posted a meme since the last great meme war... we still dank?\n\n![Meme](https://i.redd.it/0dsengvqznpg1.gif)\n\n[View on Reddit](https://redd.it/1rwibiu)"
