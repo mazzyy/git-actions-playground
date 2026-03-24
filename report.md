@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### This shouldn’t happen...\n\n![Meme](https://i.redd.it/rnzjs7fo3gqg1.gif)\n\n[View on Reddit](https://redd.it/1rzzkc2)"
+"### No further questions.\n\n![Meme](https://i.redd.it/1dcbi2vlkyqg1.png)\n\n[View on Reddit](https://redd.it/1s28kmt)"
