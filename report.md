@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/pst91mn4yuvg1.gif)\n\n[View on Reddit](https://redd.it/1sokroy)"
+"### 69 roman chinese german\n\n![Meme](https://i.redd.it/mz9f09r79xvg1.png)\n\n[View on Reddit](https://redd.it/1sotim0)"
