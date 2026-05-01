@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Delayed genius is still genius, irregardless\n\n![Meme](https://i.redd.it/gpzhv3dr01yg1.gif)\n\n[View on Reddit](https://redd.it/1syjkxe)"
+"### They don't like it\n\n![Meme](https://i.redd.it/hctcp6d0h6yg1.png)\n\n[View on Reddit](https://redd.it/1sz8cnj)"
