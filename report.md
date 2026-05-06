@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Loopholes! People, loopholes!\n\n![Meme](https://i.redd.it/yd3vqcqzn9yg1.png)\n\n[View on Reddit](https://redd.it/1sznbji)"
+"### Absolutely unusable\n\n![Meme](https://i.redd.it/t35fbka01gzg1.png)\n\n[View on Reddit](https://redd.it/1t52iv8)"
