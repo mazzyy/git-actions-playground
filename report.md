@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Absolutely unusable\n\n![Meme](https://i.redd.it/t35fbka01gzg1.png)\n\n[View on Reddit](https://redd.it/1t52iv8)"
+"### me irl\n\n![Meme](https://i.redd.it/ij6mkwc0fmzg1.png)\n\n[View on Reddit](https://redd.it/1t5wp5y)"
