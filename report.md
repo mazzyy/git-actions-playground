@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Why are they like this\n\n![Meme](https://i.redd.it/ks6cjg2v180h1.gif)\n\n[View on Reddit](https://redd.it/1t8ufde)"
+"### I choose you!\n\n![Meme](https://i.redd.it/zr1jv221ej0h1.gif)\n\n[View on Reddit](https://redd.it/1ta8qzg)"
