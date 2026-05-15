@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I choose you!\n\n![Meme](https://i.redd.it/zr1jv221ej0h1.gif)\n\n[View on Reddit](https://redd.it/1ta8qzg)"
+"### Whatever in those unreleased Files must be CRAZY\n\n![Meme](https://i.redd.it/7zo2f5dgh91h1.png)\n\n[View on Reddit](https://redd.it/1tdq24h)"
