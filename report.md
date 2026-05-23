@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### TELE TŪ BÌES\n\n![Meme](https://i.redd.it/u4wpcx09e52h1.png)\n\n[View on Reddit](https://redd.it/1thy1rt)"
+"### me_irl\n\n![Meme](https://i.redd.it/35d6zhmz4q2h1.png)\n\n[View on Reddit](https://redd.it/1tkpuu5)"
