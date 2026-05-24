@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/35d6zhmz4q2h1.png)\n\n[View on Reddit](https://redd.it/1tkpuu5)"
+"### An awfully long wait ☠️\n\n![Meme](https://i.redd.it/p63otq3m7x2h1.png)\n\n[View on Reddit](https://redd.it/1tlmkmn)"
