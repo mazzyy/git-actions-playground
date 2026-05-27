@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Plan C? .... there is no Plan C\n\n![Meme](https://i.redd.it/fn6pq2i1293h1.png)\n\n[View on Reddit](https://redd.it/1tn3mt2)"
+"### Can't even...\n\n![Meme](https://i.redd.it/84gkk0y4hi3h1.png)\n\n[View on Reddit](https://redd.it/1tocpe4)"
