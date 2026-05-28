@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Can't even...\n\n![Meme](https://i.redd.it/84gkk0y4hi3h1.png)\n\n[View on Reddit](https://redd.it/1tocpe4)"
+"### Lowkey Something I Would Do\n\n![Meme](https://i.redd.it/rtv2zpziao3h1.png)\n\n[View on Reddit](https://redd.it/1tp3y7t)"
