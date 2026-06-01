@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### He got me there\n\n![Meme](https://i.redd.it/inklyfv1614h1.gif)\n\n[View on Reddit](https://redd.it/1tqujt6)"
+"### Anime sauce?\n\n![Meme](https://i.redd.it/inwky03b9h4h1.png)\n\n[View on Reddit](https://redd.it/1tsvu7m)"
