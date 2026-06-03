@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/1e59dsaekp4h1.png)\n\n[View on Reddit](https://redd.it/1ttzrx8)"
+"### Mother watching her son’s wrestling match\n\n![Meme](https://i.redd.it/743hk76baz4h1.gif)\n\n[View on Reddit](https://redd.it/1tvbz10)"
