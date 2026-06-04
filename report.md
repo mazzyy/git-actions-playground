@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Mother watching her son’s wrestling match\n\n![Meme](https://i.redd.it/743hk76baz4h1.gif)\n\n[View on Reddit](https://redd.it/1tvbz10)"
+"### We all have that one song…\n\n![Meme](https://i.redd.it/ud9vmd9tl55h1.gif)\n\n[View on Reddit](https://redd.it/1tw6o8l)"
