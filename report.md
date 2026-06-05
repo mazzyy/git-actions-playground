@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### We all have that one song…\n\n![Meme](https://i.redd.it/ud9vmd9tl55h1.gif)\n\n[View on Reddit](https://redd.it/1tw6o8l)"
+"### Me_irl\n\n![Meme](https://i.redd.it/h04o2y8qcf5h1.png)\n\n[View on Reddit](https://redd.it/1txevgu)"
