@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### who else has accidentally typed \"ew\" in Minecraft before lol\n\n![Meme](https://i.redd.it/1ei5iq5ecm5h1.png)\n\n[View on Reddit](https://redd.it/1tyb494)"
+"### I mean, that’s what it seems like to me.\n\n![Meme](https://i.redd.it/svnhdd5jiq5h1.gif)\n\n[View on Reddit](https://redd.it/1tyu2oh)"
