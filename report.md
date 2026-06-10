@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### It's a sacrifice I am willing to make\n\n![Meme](https://i.redd.it/bse7zcddnw5h1.gif)\n\n[View on Reddit](https://redd.it/1tzk5oy)"
+"### \"Your fish shouldn't be swimming, they could drown!\"\n\n![Meme](https://i.redd.it/srd8et84dc6h1.png)\n\n[View on Reddit](https://redd.it/1u1lfmi)"
