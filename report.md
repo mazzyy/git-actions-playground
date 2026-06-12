@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/4e0143p9d26h1.png)\n\n[View on Reddit](https://redd.it/1u08imj)"
+"### Wasn’t what I meant but I’m not alone anymore\n\n![Meme](https://i.redd.it/q6l6h1ppu36h1.gif)\n\n[View on Reddit](https://redd.it/1u0gzts)"
