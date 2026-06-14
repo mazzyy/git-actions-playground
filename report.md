@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/3q27ym267v6h1.gif)\n\n[View on Reddit](https://redd.it/1u3xezc)"
+"### It's the worst when it is during a test\n\n![Meme](https://i.redd.it/0loliztvk47h1.png)\n\n[View on Reddit](https://redd.it/1u53wsg)"
