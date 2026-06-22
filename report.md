@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/xksy2b5b3m8h1.png)\n\n[View on Reddit](https://redd.it/1ubmhie)"
+"### This game finna suck 🥀💔\n\n![Meme](https://i.redd.it/k2avs59h2p8h1.png)\n\n[View on Reddit](https://redd.it/1uc04s8)"
