@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Lol why would I be scared of sin(theta)\n\n![Meme](https://i.redd.it/p254ri2nbsah1.png)\n\n[View on Reddit](https://redd.it/1uldbe5)"
+"### Get to the point already\n\n![Meme](https://i.redd.it/vxzqo2o8umah1.png)\n\n[View on Reddit](https://redd.it/1uko4td)"
