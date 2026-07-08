@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/6cjcekg7rmbh1.png)\n\n[View on Reddit](https://redd.it/1up1397)"
+"### what is that one opinion or thought that'll put you in this situation?\n\n![Meme](https://i.redd.it/aqc826hjgnbh1.png)\n\n[View on Reddit](https://redd.it/1up57j7)"
