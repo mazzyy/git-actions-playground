@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### POV trying to post on r/unpopularopinion\n\n![Meme](https://i.redd.it/9bbogdr3gieh1.png)\n\n[View on Reddit](https://redd.it/1v28355)"
+"### the taste of victory\n\n![Meme](https://i.redd.it/3mb6aat98geh1.png)\n\n[View on Reddit](https://redd.it/1v1xwic)"
