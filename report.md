@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Millennials in 2026\n\n![Meme](https://i.redd.it/lpr2gs23jggh1.png)\n\n[View on Reddit](https://redd.it/1vbaty4)"
+"### Why do I even bother with tags..\n\n![Meme](https://i.redd.it/3mpxr16arihh1.png)\n\n[View on Reddit](https://redd.it/1vg1og1)"
