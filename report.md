@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/cnc7mce84oih1.gif)\n\n[View on Reddit](https://redd.it/1vl6laj)"
+"### Then you have to add \"meaning\" to the end of the search result. 😒\n\n![Meme](https://i.redd.it/8b1jgr4bwxih1.png)\n\n[View on Reddit](https://redd.it/1vmd30f)"
