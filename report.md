@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me irl\n\n![Meme](https://i.redd.it/v5fr1aoyfejh1.png)\n\n[View on Reddit](https://redd.it/1voie2s)"
+"### The place where I work is also pushing the use of AI\n\n![Meme](https://i.redd.it/4dq4mkqu1rjh1.png)\n\n[View on Reddit](https://redd.it/1vpywkq)"
