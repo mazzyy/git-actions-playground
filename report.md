@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Me_irl\n\n![Meme](https://i.redd.it/gvcfuk0w46kh1.gif)\n\n[View on Reddit](https://redd.it/1vrvxwi)"
+"### Duality of morality or something\n\n![Meme](https://i.redd.it/stuluzxrynkh1.png)\n\n[View on Reddit](https://redd.it/1vu78wb)"
