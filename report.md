@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Duality of morality or something\n\n![Meme](https://i.redd.it/stuluzxrynkh1.png)\n\n[View on Reddit](https://redd.it/1vu78wb)"
+"### Difference between $230 and $80B\n\n![Meme](https://i.redd.it/f8z5uzk3hqkh1.png)\n\n[View on Reddit](https://redd.it/1vuh0ws)"
