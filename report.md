@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Ain't that true\n\n![Meme](https://i.redd.it/5buupnqum7nh1.gif)\n\n[View on Reddit](https://redd.it/1w5ttx9)"
+"### Disco Dungeon Synth\n\n![Meme](https://i.redd.it/wz9rlij7iinh1.png)\n\n[View on Reddit](https://redd.it/1w75o7s)"
