@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/lde795in54ph1.png)\n\n[View on Reddit](https://redd.it/1wegl0i)"
+"### Almost-prophecy honorable mentions to Network and They Live\n\n![Meme](https://i.redd.it/1qkpbvzzn3ph1.png)\n\n[View on Reddit](https://redd.it/1wee629)"
