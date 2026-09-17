@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### I have an idea\n\n![Meme](https://i.redd.it/fpzhdw9szrph1.gif)\n\n[View on Reddit](https://redd.it/1whho5i)"
+"### me_irl\n\n![Meme](https://i.redd.it/bmth0yzpiwph1.png)\n\n[View on Reddit](https://redd.it/1wi0ktv)"
