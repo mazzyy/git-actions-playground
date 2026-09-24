@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/ss909buao7rh1.png)\n\n[View on Reddit](https://redd.it/1wnxt6t)"
+"### The whole situation is crazy tbh.\n\n![Meme](https://i.redd.it/r5xe6306pcrh1.gif)\n\n[View on Reddit](https://redd.it/1wol2hv)"
