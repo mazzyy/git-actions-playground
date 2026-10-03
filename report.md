@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Icelandic Salmon in a can\n\n![Meme](https://i.redd.it/kvkoamsqqjsh1.png)\n\n[View on Reddit](https://redd.it/1wtpxkb)"
+"### Both of them are nightmare fuel\n\n![Meme](https://i.redd.it/s3ttxfsf8psh1.png)\n\n[View on Reddit](https://redd.it/1wucff5)"
