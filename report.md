@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Both of them are nightmare fuel\n\n![Meme](https://i.redd.it/s3ttxfsf8psh1.png)\n\n[View on Reddit](https://redd.it/1wucff5)"
+"### Now what am i gonna do...\n\n![Meme](https://i.redd.it/z7odyy0u71th1.png)\n\n[View on Reddit](https://redd.it/1wvqfu8)"
