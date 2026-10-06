@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Skeletor Win\n\n![Meme](https://i.redd.it/pwb2bt62egth1.png)\n\n[View on Reddit](https://redd.it/1wxfutr)"
+"### stacy's mom help me\n\n![Meme](https://i.redd.it/625ryaxtjoth1.png)\n\n[View on Reddit](https://redd.it/1wydy0k)"
