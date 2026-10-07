@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### stacy's mom help me\n\n![Meme](https://i.redd.it/625ryaxtjoth1.png)\n\n[View on Reddit](https://redd.it/1wydy0k)"
+"### Oh, they are coming to correct you\n\n![Meme](https://i.redd.it/pjn6vjaxtwth1.gif)\n\n[View on Reddit](https://redd.it/1wzdz3j)"
