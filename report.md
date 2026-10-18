@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Looks like times have changed for good.\n\n![Meme](https://i.redd.it/e26ib3iymwvh1.png)\n\n[View on Reddit](https://redd.it/1x7ttqi)"
+"### It do be like that\n\n![Meme](https://i.redd.it/ihwt6p6f7zvh1.gif)\n\n[View on Reddit](https://redd.it/1x83kcu)"
