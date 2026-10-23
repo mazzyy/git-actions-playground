@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/c550gnc690xh1.png)\n\n[View on Reddit](https://redd.it/1xcg8i2)"
+"### Pfft. Amateurs.\n\n![Meme](https://i.redd.it/yyv6mzaeb4xh1.gif)\n\n[View on Reddit](https://redd.it/1xd0hqs)"
