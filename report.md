@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Former CBI forensic analyst\n\n![Meme](https://i.redd.it/sy5aoe9qxnyh1.png)\n\n[View on Reddit](https://redd.it/1xjqa7f)"
+"### Kiss your ram\n\n![Meme](https://i.redd.it/ccsip41btyyh1.png)\n\n[View on Reddit](https://redd.it/1xky93a)"
