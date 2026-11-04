@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### You were supposed to be on my side\n\n![Meme](https://i.redd.it/vr5xyx3es8zh1.gif)\n\n[View on Reddit](https://redd.it/1xm55dh)"
+"### Maybe it was all a dream\n\n![Meme](https://i.redd.it/dv6qcm4a7mzh1.png)\n\n[View on Reddit](https://redd.it/1xnr7oi)"
