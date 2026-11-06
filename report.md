@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### Might wanna close that curtain\n\n![Meme](https://i.redd.it/n80uebj1qozh1.gif)\n\n[View on Reddit](https://redd.it/1xo43hr)"
+"### It's not looking good brev\n\n![Meme](https://i.redd.it/265632vcqtzh1.png)\n\n[View on Reddit](https://redd.it/1xonpaj)"
