@@ -1,4 +1,4 @@
 # Daily Meme Report
 
 ## Meme of the Day
-"### me_irl\n\n![Meme](https://i.redd.it/r00fb2oh8p2i1.png)\n\n[View on Reddit](https://redd.it/1y0uqj8)"
+"### Sure buddy\n\n![Meme](https://i.redd.it/0usuo3c4kh2i1.gif)\n\n[View on Reddit](https://redd.it/1xzyv9v)"
